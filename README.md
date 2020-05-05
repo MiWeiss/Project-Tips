@@ -1,9 +1,16 @@
-
 # Efficient and successful programming assignments
+This repository aims to help you
+to get a good grade while working efficiently by using appropriate development techniques and by focussing on the most relevant stuff first.
+It is targeted at students in the *Programming Fundamentals 2* class at [USI](https://www.usi.ch/en) 
+but its content probably generalizes to most programming assignments in software engineering though.
 
-The following list will help you to improve your grades while spending your time as efficiently as possible
- (loosely ordered in dicreasing order of priority). 
-A list of common problems and countermeasures is provided [here](#common-problems-and-countermeasures).
+Jump directly to the two main chapters:
+- [How to get a good grade](#how-to-get-a-good-grade)
+- [Common here](#common-problems-and-countermeasures).
+
+## How to get a good grade
+Following the following points will help you to get a good grade for your project
+(assuming the grading considers code quality).
 
 #### :+1: :+1: :+1:  Be fair (no plagiarism , no late submission, no warning supression) :exclamation:
 Do not copy any code from anywhere. 
@@ -39,6 +46,9 @@ You can use various **tools** (e.g. PMD, CPD) to help you with this.
 
 #### :+1: :+1: High test coverage with meaningful tests
 Make sure all your code is covered by unit tests. 
+This is not just for grading, but will make the debugging process for you so much easier 
+and also reduces the risk of submitting something that still contains errors which you could have easily fixed
+but of which you were not aware.
 
 Your tests should be effective: They should check for more than just a happy path and also treat edge conditions.
 Rule of Thumb (Mutation Testing): If all your tests are green and you change a random piece of correct and tested code to something wrong, 
@@ -62,7 +72,6 @@ with *nice to haves* such as a beautiful GUI, unexpected easter eggs or optional
 Attention: If you add unrequested features, make sure to discuss them with a TA and get the approval 
 to deviate from the requested scope of features. 
 
-
 ## Common Problems and Countermeasures
 
 #### :hankey: The project is not completed at the time of submission. :bulb: Prioritize features [-> minimal first principle](./mini_sections/minimal_first)
@@ -75,7 +84,7 @@ to deviate from the requested scope of features.
 
 #### :hankey: There's a checkstyle / CPD complain I don't agree with. :bulb: -> explain your argument in a comment (*)
  
-#### :hankey: There's a feature I cannot implement. :bulb: [-> mock functionality](./mini_sections/stubs.md)
+#### :hankey: There's a feature I cannot implement. :bulb: [-> provide & document a stub](./mini_sections/stubs.md)
 
 #### :hankey: I forgot to save my project. It's all gone. :bulb: git push frequently [-> mini git tutorial](./mini_sections/simple_git.md)
 
@@ -83,15 +92,13 @@ to deviate from the requested scope of features.
 
 (*) You're probably wrong.
 
-
-
-## About this Repo
+#### About this Repo
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 <!-- TODO RE-ENABLE
 [![HitCount](http://hits.dwyl.com/{MiWeiss}/{Project-Tips}.svg)](http://hits.dwyl.com/MiWeiss/Project-Tips)
 -->
 
-**Author:** Michael Weiss, Software Institute @ Università della Svizzera Italiana (USI), Switzerland [ -> web](https://mweiss.ch)
+**Author:** Michael Weiss, Software Institute @ Università della Svizzera Italiana (USI), Switzerland [-> web](https://mweiss.ch)
 
 
