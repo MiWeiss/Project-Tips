@@ -98,4 +98,4 @@ to deviate from the expected functionality.
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 [![HitCount](http://hits.dwyl.com/{MiWeiss}/{Project-Tips}.svg)](http://hits.dwyl.com/MiWeiss/Project-Tips)
 
-**Author:** Michael Weiss, Software Institute @ Università della Svizzera Italiana (USI), Switzerland
+**Author:** Michael Weiss, Software Institute @ Università della Svizzera italiana (USI), Switzerland
