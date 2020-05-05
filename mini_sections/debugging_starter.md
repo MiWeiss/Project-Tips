@@ -9,7 +9,7 @@ Source: [This Article](https://coralogix.com/log-analytics-blog/this-is-what-you
 The following are common techniques to identify bugs quickly:
 
 1. **Split complex functions into many subfunctions** and 
-write good unit tests for them [(see here)](../#1-1-high-test-coverage-with-meaningful-tests).
+write good unit tests for them [(see here)](../README.md#1-1-high-test-coverage-with-meaningful-tests).
 This makes your code nicer to read and the failing tests *often* indicate exactly where stuff is going wrong.
 2. **Use static code analyzers** (such as PMD). 
 Warnings from such code analyzers are almost always a good indication that somethings is going wrong.
@@ -22,7 +22,7 @@ the program runs to identify unexpected values (this is a dirty hack - luckily, 
 4. **Ask your mate**.
 Sometimes, a second pair of eyes just sees more. 
 Don't hesitate to ask your teammates to review your code and be helpful if they ask you to review theirs.
-5. :duck: **Explain your code to a Rubber Duck** [(Yes, that's a thing)](https://en.wikipedia.org/wiki/Rubber_duck_debugging).
+5. **Explain your code to a Rubber Duck** :duck: [(Yes, that's a thing)](https://en.wikipedia.org/wiki/Rubber_duck_debugging).
 By forcing yourself to precisely and explicitly formulate what your code is doing, you will spot many errors yourself.
 It may sound stupid, but try it.
 6. (If an error is printed to the console): **Google / StackOverflow** are reliable buddies.

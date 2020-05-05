@@ -71,7 +71,7 @@ Besides the stuff mentioned above, feature completeness
 
 #### :+1: Additional Functionality (Top GUI, Easter Eggs, Feature Extensions)
 Once all of the above is perfectly completed, you can typically collect additional points
-with *nice to haves* such as a beautiful GUI, unexpected easter eggs or optional features.
+with *nice to haves* such as a beautiful GUI, funny easter eggs or optional features.
 Attention: If you add unrequested features, make sure to discuss them with a TA and get the approval 
 to deviate from the expected functionality. 
 
@@ -83,7 +83,7 @@ to deviate from the expected functionality.
 
 #### :hankey: One of the teammates does not contribute to the project. :bulb: Talk to the TA or lecturer asap.
 
-#### :hankey: There's a bug that is driving me crazy :bulb: That's life :-) [-> debugging tips](./mini_sections/debugging_starter.md)
+#### :hankey: A bug is driving me crazy :bulb: That's life :-) [-> debugging tips](./mini_sections/debugging_starter.md)
 
 #### :hankey: There's a checkstyle / CPD complain I don't agree with. :bulb: -> explain your argument in a comment (*)
  
