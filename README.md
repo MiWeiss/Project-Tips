@@ -23,8 +23,10 @@
         Too much stress is unhealthy and will also stand in your way to solve your assignments efficiently.     
     </summary>
 Helpful tactics do deal with stress:
+
 - Focus on minimal features first and only extend to larger submissions if time allows.
 - Get help: [USI Psychological Counselling](https://www.desk.usi.ch/en/psychological-counselling-service)
+
 </details>
 
 
