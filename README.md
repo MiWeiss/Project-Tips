@@ -52,6 +52,11 @@ Make sure at least one minimal happy path works. [-> minimal first principle](./
 #### :+1: Additional Functionality (Top GUI, Easter Eggs, Feature Extensions)
 
 
+## About this Repo
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![HitCount](http://hits.dwyl.com/{MiWeiss}/{Project-Tips}.svg)](http://hits.dwyl.com/MiWeiss/Project-Tips)
 
+**Author:** Michael Weiss, Software Institute @ Università della Svizzera Italiana (USI), Switzerland [ -> web](https://mweiss.ch)
 
 
