@@ -18,7 +18,14 @@
 ##### :hankey: I forgot to save my project. It's all gone.
 
 ##### :hankey: The pressure is getting too much. 
-
+<details>
+    <summary>
+        Too much stress is unhealthy and will also stand in your way to solve your assignments efficiently.     
+    </summary>
+Helpful tactics do deal with stress:
+- Focus on minimal features first and only extend to larger submissions if time allows.
+- Get help: [USI Psychological Counselling](https://www.desk.usi.ch/en/psychological-counselling-service)
+</details>
 
 
 ### How to get a good grade?
@@ -30,7 +37,7 @@ The following things will help you to improve your grades (loosely ordered in di
 
 ##### :+1: :+1: :+1: Happy Path Functionality
 
-##### :+1: :+1: Follow important coding best-practices
+##### :+1: :+1: Reasonable Software Design Choices
 
 ##### :+1: :+1: High test coverage with meaningful tests
 
