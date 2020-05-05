@@ -33,6 +33,9 @@
 
 
 #### :hankey: The pressure is getting too much.
+<details>
+<summary> Click to Read More </summary>
+
 Make sure to **start early**: Don't do most of the workload just before the deadline. Besides obvious advantages,
 this allows you to take a timeout if needed while still being able to submit in time. 
 Additionally, TAs are more likely to be able to help you if you contact them early.
@@ -44,7 +47,8 @@ If stress now suddenly gets too much, you can always submit and still collect im
 Lastly, make sure to get help if everything gets too much. 
 Contact friends, family or the University
  ([USI Psychological Counselling](https://www.desk.usi.ch/en/psychological-counselling-service)).
-
+ 
+</details>
 
 
 
