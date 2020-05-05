@@ -79,17 +79,17 @@ to deviate from the expected functionality.
 
 #### :hankey: The project is not completed at the time of submission. :bulb: Prioritize features [-> minimal first principle](./mini_sections/minimal_first.md)
 
-#### :hankey: At the time of (milestone or final) submission, the project is in an invalid state :bulb: feature branches  [ -> mini git tutorial](./mini_sections/simple_git.md) 
+#### :hankey: At the time of (milestone or final) submission, the project is in an invalid state :bulb: feature branches  [ -> git advantages](./mini_sections/simple_git.md) 
 
 #### :hankey: One of the teammates does not contribute to the project. :bulb: Talk to the TA or lecturer asap.
 
 #### :hankey: A bug is driving me crazy :bulb: That's life :-) [-> debugging tips](./mini_sections/debugging_starter.md)
 
-#### :hankey: There's a checkstyle / CPD complain I don't agree with. :bulb: -> explain your argument in a comment (*)
+#### :hankey: There's a checkstyle / CPD warning I don't agree with. :bulb: -> explain your argument in a comment (*)
  
 #### :hankey: There's a feature I cannot implement. :bulb: [-> provide & document a stub](./mini_sections/stubs.md)
 
-#### :hankey: I forgot to save my project. It's all gone. :bulb: git push frequently [-> mini git tutorial](./mini_sections/simple_git.md)
+#### :hankey: I forgot to save my project. It's all gone. :bulb: git push frequently [-> git advantages](./mini_sections/simple_git.md)
 
 #### :hankey: The pressure is getting too much. :bulb: [-> Start early, minimal first, get help!](./mini_sections/stress.md)
 
@@ -102,6 +102,4 @@ to deviate from the expected functionality.
 [![HitCount](http://hits.dwyl.com/{MiWeiss}/{Project-Tips}.svg)](http://hits.dwyl.com/MiWeiss/Project-Tips)
 -->
 
-**Author:** Michael Weiss, Software Institute @ Università della Svizzera Italiana (USI), Switzerland [-> web](https://mweiss.ch)
-
-
+**Author:** Michael Weiss, Software Institute @ Università della Svizzera Italiana (USI), Switzerland
