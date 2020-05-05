@@ -24,15 +24,12 @@
 ### How to get a good grade?
 The following things will help you to improve your grades (loosely ordered in dicreasing order of priority).
 
+##### :+1: :+1: :+1: :exclamation: Be fair (no plagiarism, no late submission) 
 <details>
-    <summary>
-        <h5>
-                    :exclamation: Be fair (no plagiarism, no late submission) 
-        </h5>
-    </summary>
-    
+<summary>
+<h5>Blabla</h5>
+</summary> 
 <p>
-    'this' **this** 
 </p>
 </details> 
 
@@ -47,6 +44,8 @@ The following things will help you to improve your grades (loosely ordered in di
 ##### :+1: :+1: No code duplication where reasonably avoidable
 
 ##### :+1: :+1: No checkstyle (PMD) errors or compiler warnings
+
+##### :+1: :+1: Edge-Case functionality for main features
 
 ##### :+1: Additional Functionality (Top GUI, Easter Eggs, Feature Extensions)
 
