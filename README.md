@@ -30,16 +30,11 @@
 #### :hankey: There's a feature I cannot implement.
 
 #### :hankey: I forgot to save my project. It's all gone.
-- 
 
-#### :hankey: The pressure is getting too much. {#stress}
-<script>
-    $(document).ready(function(){collapse('.stress', '.stress_content')});
-</script>
-<p id="stress_content">
-- Focus on minimal features first and only extend to larger submissions if time allows.
-- Get help: [USI Psychological Counselling](https://www.desk.usi.ch/en/psychological-counselling-service)
-</p>
+
+#### :hankey: The pressure is getting too much.
+To avoid too much stress, focus on minimal features first and only extend to larger submissions if time allows.
+Note that you can always get help: [USI Psychological Counselling](https://www.desk.usi.ch/en/psychological-counselling-service)
 
 
 
