@@ -24,12 +24,11 @@
 ### How to get a good grade?
 The following things will help you to improve your grades (loosely ordered in dicreasing order of priority).
 
+<!-- Blabla -->
 <details>
-**
- <summary>
+ <summary><b>
     :exclamation: Be fair (no plagiarism, no late submission)
- </summary>
- **
+ </b></summary>
  ...this is hidden, collapsable content...
 </details>
 
