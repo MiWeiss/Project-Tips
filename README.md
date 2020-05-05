@@ -96,8 +96,6 @@ to deviate from the expected functionality.
 ## About this Repo
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-<!-- TODO RE-ENABLE
 [![HitCount](http://hits.dwyl.com/{MiWeiss}/{Project-Tips}.svg)](http://hits.dwyl.com/MiWeiss/Project-Tips)
--->
 
 **Author:** Michael Weiss, Software Institute @ Università della Svizzera Italiana (USI), Switzerland
