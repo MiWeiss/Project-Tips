@@ -1,18 +1,4 @@
-<head>
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-</head>
 
-
-<script>
-    collapse = function(btn, sec){
-          $(btn).click(function(){
-            $(sec).hide();
-          });
-          $(btn).click(function(){
-            $(sec).show();
-          });
-    };
-</script>
 ## How to be efficient and successful in my Student Programming Project?
 
 ### Common Problems and Countermeasures
