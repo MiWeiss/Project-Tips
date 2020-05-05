@@ -25,13 +25,6 @@
 The following things will help you to improve your grades (loosely ordered in dicreasing order of priority).
 
 ##### :+1: :+1: :+1: :exclamation: Be fair (no plagiarism, no late submission) 
-<details>
-<summary>
-<h5>Blabla</h5>
-</summary> 
-<p>
-</p>
-</details> 
 
 ##### :+1: :+1: :+1: Code Compiles without Errors
 
