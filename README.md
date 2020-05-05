@@ -19,16 +19,9 @@
 
 ##### :hankey: The pressure is getting too much. 
 
-<details>
-    <summary>
-        <b> :hankey: The pressure is getting too much.    </b>
-    </summary>
-Helpful tactics do deal with stress:
-
 - Focus on minimal features first and only extend to larger submissions if time allows.
 - Get help: [USI Psychological Counselling](https://www.desk.usi.ch/en/psychological-counselling-service)
 
-</details>
 
 
 ### How to get a good grade?
