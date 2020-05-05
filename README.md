@@ -1,6 +1,5 @@
 # Efficient and successful programming assignments
-This repository aims to help you
-to get a good grade while working efficiently by using appropriate development techniques and by focussing on the most relevant stuff first.
+This repository aims to help you to get better grades for your programming project in less time.
 It is targeted at students in the *Programming Fundamentals 2* class at [USI](https://www.usi.ch/en) 
 but its content probably generalizes to most programming assignments in software engineering though.
 
@@ -9,8 +8,7 @@ Jump directly to the two main chapters:
 - [Common problems and countermeasures](#common-problems-and-countermeasures).
 
 ## A guide to good grades.
-Following the following points will help you to get a good grade for your project
-(assuming the grading considers code quality).
+The following points will help you to get a good grade for your project:
 
 #### :+1: :+1: :+1:  Be fair (no plagiarism , no late submission, no warning supression) :exclamation:
 Do not copy any code from anywhere. 
