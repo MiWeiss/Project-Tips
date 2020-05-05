@@ -19,6 +19,6 @@ To make sure you have something to submit as early as possible, I recommend the 
     even though (by far) not yet all required features are implemented.
 4. Iteratively implement more features which you identified in step (1), again using TDD until there are no TODOs left.
 5. You're technically done with the project.
-    If you want you can now (**and only now - not earlier**) start thinking about bonus points,
+    If you want you can now (**and only now - not earlier**) start thinking about bonus points
     (e.g., replace the random move computer player in our example above with a smart strategic AI player).
     
