@@ -24,14 +24,17 @@
 ### How to get a good grade?
 The following things will help you to improve your grades (loosely ordered in dicreasing order of priority).
 
-<!-- Blabla -->
 <details>
- <summary><b>
-    :exclamation: Be fair (no plagiarism, no late submission)
- </b></summary>
- ...this is hidden, collapsable content...
-</details>
-
+    <summary>
+        <h5>
+                    :exclamation: Be fair (no plagiarism, no late submission) 
+        </h5>
+    </summary>
+    
+<p>
+    'this' **this** 
+</p>
+</details> 
 
 ##### :+1: :+1: :+1: Code Compiles without Errors
 
