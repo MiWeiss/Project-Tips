@@ -6,7 +6,7 @@ but its content probably generalizes to most programming assignments in software
 
 Jump directly to the two main chapters:
 - [How to get a good grade](#a-guide-to-good-grades)
-- [Common problems and Countermeasures](#common-problems-and-countermeasures).
+- [Common problems and countermeasures](#common-problems-and-countermeasures).
 
 ## A guide to good grades.
 Following the following points will help you to get a good grade for your project
