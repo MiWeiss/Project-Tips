@@ -34,7 +34,7 @@
 
 #### :hankey: The pressure is getting too much.
 <details>
-<summary> Click to Read More </summary>
+<summary> Start early, start small and get help. </summary>
 
 Make sure to **start early**: Don't do most of the workload just before the deadline. Besides obvious advantages,
 this allows you to take a timeout if needed while still being able to submit in time. 
