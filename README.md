@@ -25,7 +25,7 @@ If your code does not compile, your TA cannot run it and won't be able to give y
 For this, its important that you do not use use any external libraries (which your TA won't bother installing).
 
 #### :+1: :+1: :+1: Happy path functionality
-Make sure at least one minimal happy path works. [-> minimal first principle](./mini_sections/minimal_first.md)
+Make sure at least one minimal happy path works and is described in your Readme. [-> minimal first principle](./mini_sections/minimal_first.md)
 
 #### :+1: :+1: Code documentation and project readme
 Document all exposed methods in your code. 
@@ -60,7 +60,7 @@ Rule of Thumb (Mutation Testing): If all your tests are green
 
 #### :+1: :+1: No checkstyle errors or compiler warnings
 Errors and problems which are detected by checkstyle tools (e.g. PMD, CPD) 
-    are likely to also be detected by the TA grading you - we use a superset of the tools you use :-)
+    are likely to be detected by the TA grading you as well - we use a superset of the tools you use.
 Additionally, such warnings are often good indicators of bugs and 
     avoiding them will make your debugging life much easier [-> debugging tips](./mini_sections/debugging_starter.md)
 
