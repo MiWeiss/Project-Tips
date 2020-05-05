@@ -17,7 +17,7 @@ Making sure to fix such warnings whenever they occur will make sure your project
 3. **Observe the value of variables during code execution**.
 If you're using an advanced IDE (such as IntellJ or Eclipse) this can easily be done by setting breakpoints and running 
 the code in debugging mode.
-If you're using simpler tools like BlueJ or simple text editors, print the values of your variables to the console as
+If you're using simpler tools like simple text editors, print the values of your variables to the console as
 the program runs to identify unexpected values (this is a dirty hack - luckily, you'll soon switch to real IDEs :speak_no_evil:).
 4. **Ask your mate**.
 Sometimes, a second pair of eyes just sees more. 
