@@ -1,16 +1,18 @@
 
 # Efficient and successful programming assignments
 
-## How to get a good grade?
-The following things will help you to improve your grades (loosely ordered in dicreasing order of priority).
+The following list will help you to improve your grades while spending your time as efficiently as possible
+ (loosely ordered in dicreasing order of priority). 
+A list of common problems and countermeasures is provided [here](#common-problems-and-countermeasures).
 
-#### :+1: :+1: :+1: :exclamation: Be fair (no plagiarism, no late submission) 
+#### :+1: :+1: :+1:  Be fair (no plagiarism :exclamation: No late submission :exclamation:) 
 Do not copy any code from anywhere. 
-If you consulted only references (e.g. StackOverflow) to solve a problem, make sure you fully understand and re-write the solution
-yourself (instead of copying). Also add appropriate referencing to your solution.
+If you consulted online references (e.g. StackOverflow) to solve a problem, make sure you fully understand and re-write the solution
+yourself (instead of copying). Make sure to appropriately reference your sources.
 
 #### :+1: :+1: :+1: Code compiles without errors
 If your code does not compile, we cannot run it and won't be able to give you any points for any of the cool stuff you implemented.
+For this, its important not use use any external libraries (which your TA won't bother installing).
 
 #### :+1: :+1: :+1: Happy path functionality
 Make sure at least one minimal happy path works. [-> minimal first principle](./mini_sections/minimal_first)
