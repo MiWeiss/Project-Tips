@@ -26,7 +26,7 @@ The following things will help you to improve your grades (loosely ordered in di
 
 <details>
  <summary>
-    ##### :exclamation: Be fair (no plagiarism, no late submission)
+    :exclamation: **Be fair (no plagiarism, no late submission)**
  </summary>
  ...this is hidden, collapsable content...
 </details>
