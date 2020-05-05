@@ -16,7 +16,7 @@ public class Subclass extends SimpleMathDefinition{
     }  
 
     @Override 
-    public int calculatePi(){
+    public double calculatePi(){
         // TODO Method Stub. Not yet implemented.
         return 0;
     }
@@ -35,7 +35,7 @@ public class Subclass extends SimpleMathDefinition{
     }  
 
     @Override 
-    public int calculatePi(){
+    public double calculatePi(){
         // TODO I did not find the time to implement this method. I thus hardcoded a mock return value of 3
         return 3;
     }
