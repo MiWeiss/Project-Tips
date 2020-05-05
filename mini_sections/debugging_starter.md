@@ -12,7 +12,7 @@ The following are common techniques to identify bugs quickly:
 write good unit tests for them [(see here)](../README.md#1-1-high-test-coverage-with-meaningful-tests).
 This makes your code nicer to read and the failing tests *often* indicate exactly where stuff is going wrong.
 2. **Use static code analyzers** (such as PMD). 
-Warnings from such code analyzers are almost always a good indication that somethings is going wrong.
+Warnings from such code analyzers are almost always a good indication that something is going wrong.
 Making sure to fix such warnings whenever they occur will make sure your project remains in an easily understandable state.
 3. **Observe the value of variables during code execution**.
 If you're using an advanced IDE (such as IntellJ or Eclipse) this can easily be done by setting breakpoints and running 

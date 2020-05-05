@@ -2,7 +2,7 @@
 Obviously, you should use git for any of your projects.
 The following recommendations help you to get the most out of git.
 They assume you know how to work with git and in particular with different branches.
-If you dont know git well and don't want to learn it now, just ignore this page.
+If you don't know git well and don't want to learn it now, just ignore this page.
 
 1. **Keep the Master Branch Always Clean:** Make sure code on the master branch always compiles 
     and does not break any functionality that worked in previous versions.
@@ -10,5 +10,5 @@ If you dont know git well and don't want to learn it now, just ignore this page.
 2. **Implement new Features on distinct branches** and merge them into master when the feature is completely implemented.
     Keeping features as small as possible (and thus merging early and often) helps you to avoid merge conflicts.
 3. **Commit and Push often**. This makes sure you don't lose much if your PC crashes. 
-    Also, if you mess up you can always just go back to a previous version and try again (e.g. `git revert` do discard uncomitted changes).
+    Also, if you mess up you can always just go back to a previous version and try again (e.g. `git revert` do discard uncommitted changes).
     Run your unit tests whenever you commit to make sure your changes did not introduce any new bugs.

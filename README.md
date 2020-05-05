@@ -10,7 +10,7 @@ Jump directly to the two main chapters:
 ## A guide to good grades.
 The following points will help you to get a good grade for your project:
 
-#### :+1: :+1: :+1:  Be fair (no plagiarism , no late submission, no warning supression) :exclamation:
+#### :+1: :+1: :+1:  Be fair (no plagiarism, no late submission, no warning suppression) :exclamation:
 Do not copy any code from anywhere. 
 If you consulted online references (e.g. StackOverflow) to solve a problem, make sure you fully understand and re-write the solution
 yourself (instead of copying). Make sure to appropriately reference your sources.
@@ -20,7 +20,7 @@ very bad when detected during grading :triumph:. Do not risk it!
 
 #### :+1: :+1: :+1: Code compiles without errors
 If your code does not compile, your TA cannot run it and won't be able to give you any points for any of the cool stuff you implemented.
-For this, its important that you do not use use any external libraries (which your TA won't bother installing).
+For this, it is important that you do not use any external libraries (which your TA won't bother installing).
 
 #### :+1: :+1: :+1: Happy path functionality
 Make sure at least one minimal happy path works and is described in your Readme. [-> minimal first principle](./mini_sections/minimal_first.md)
@@ -53,7 +53,7 @@ Your tests should be effective: They should check for more than just a happy pat
     but of which you were not aware.
 
 Rule of Thumb (Mutation Testing): If all your tests are green 
-    and you change a random piece of correct and tested code to something thats's wrong, 
+    and you change a random piece of correct and tested code to something that's wrong,
     at least one test should fail.
 
 #### :+1: :+1: No checkstyle errors or compiler warnings
@@ -69,7 +69,7 @@ Besides the stuff mentioned above, feature completeness
 
 #### :+1: Additional Functionality (Top GUI, Easter Eggs, Feature Extensions)
 Once all of the above is perfectly completed, you can typically collect additional points
-with *nice to haves* such as a beautiful GUI, funny easter eggs or optional features.
+with *nice to have*s such as a beautiful GUI, funny easter eggs or optional features.
 Attention: If you add unrequested features, make sure to discuss them with a TA and get the approval 
 to deviate from the expected functionality. 
 
