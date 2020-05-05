@@ -15,9 +15,9 @@
  
 #### :hankey: There's a feature I cannot implement.
 
-#### :hankey: I forgot to save my project. It's all gone.
+#### :hankey: I forgot to save my project. It's all gone. :bulb: [git push frequently](./mini_sections/simple_git.md)
 
-#### :hankey: The pressure is getting too much. [How to avoid this?](./mini_sections/problems_stress.md)
+#### :hankey: The pressure is getting too much. :bulb: [How to avoid stress?](./mini_sections/stress.md)
 
 
 
