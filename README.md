@@ -18,9 +18,10 @@
 ##### :hankey: I forgot to save my project. It's all gone.
 
 ##### :hankey: The pressure is getting too much. 
+
 <details>
     <summary>
-        Too much stress is unhealthy and will also stand in your way to solve your assignments efficiently.     
+        <b> :hankey: The pressure is getting too much.    </b>
     </summary>
 Helpful tactics do deal with stress:
 
