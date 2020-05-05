@@ -5,9 +5,9 @@ but its content probably generalizes to most programming assignments in software
 
 Jump directly to the two main chapters:
 - [How to get a good grade](#a-guide-to-good-grades)
-- [Common problems and countermeasures](#common-problems-and-countermeasures).
+- [Common problems and countermeasures](#common-problems-and-countermeasures)
 
-## A guide to good grades.
+## A guide to good grades
 The following points will help you to get a good grade for your project:
 
 #### :+1: :+1: :+1:  Be fair (no plagiarism, no late submission, no warning suppression) :exclamation:
@@ -96,8 +96,6 @@ to deviate from the expected functionality.
 ## About this Repo
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-<!-- TODO RE-ENABLE
 [![HitCount](http://hits.dwyl.com/{MiWeiss}/{Project-Tips}.svg)](http://hits.dwyl.com/MiWeiss/Project-Tips)
--->
 
 **Author:** Michael Weiss, Software Institute @ Università della Svizzera Italiana (USI), Switzerland
