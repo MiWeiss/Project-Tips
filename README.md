@@ -1,10 +1,11 @@
-# How to be efficient and successful in my Student Programming Project?
+## How to be efficient and successful in my Student Programming Project?
+
 
 ### Common Problems and Countermeasures
 
 ##### :hankey: The project is not completed at the time of submission.
 
-##### :hankey: At the time of (milestone or final) submission, the project is in an invalid state, because your currently working on a new feature.
+##### :hankey: At the time of (milestone or final) submission, the project is in an invalid state, as there's active work on a new feature.
 
 ##### :hankey: One of the teammates does not contribute to the project.
 
@@ -16,14 +17,20 @@
 
 ##### :hankey: I forgot to save my project. It's all gone.
 
-##### :hankey: The pressure is getting too much. :weary:
+##### :hankey: The pressure is getting too much. 
 
 
 
 ### How to get a good grade?
 The following things will help you to improve your grades (loosely ordered in dicreasing order of priority).
 
-##### :exclamation: Be fair (no plagiarism, no late submission)
+<details>
+ <summary>
+    ##### :exclamation: Be fair (no plagiarism, no late submission)
+ </summary>
+ ...this is hidden, collapsable content...
+</details>
+
 
 ##### :+1: :+1: :+1: Code Compiles without Errors
 
