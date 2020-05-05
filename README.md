@@ -5,14 +5,17 @@ The following list will help you to improve your grades while spending your time
  (loosely ordered in dicreasing order of priority). 
 A list of common problems and countermeasures is provided [here](#common-problems-and-countermeasures).
 
-#### :+1: :+1: :+1:  Be fair (no plagiarism :exclamation: No late submission :exclamation:) 
+#### :+1: :+1: :+1:  Be fair (no plagiarism , no late submission, no warning supression) :exclamation:
 Do not copy any code from anywhere. 
 If you consulted online references (e.g. StackOverflow) to solve a problem, make sure you fully understand and re-write the solution
 yourself (instead of copying). Make sure to appropriately reference your sources.
 
+Also, cheap tricks like `@supresswarnings` or simple renaming of variables to hide code duplication look 
+very bad when detected during grading :triumph:. Do not risk it!
+
 #### :+1: :+1: :+1: Code compiles without errors
 If your code does not compile, we cannot run it and won't be able to give you any points for any of the cool stuff you implemented.
-For this, its important not use use any external libraries (which your TA won't bother installing).
+For this, its important that you do not use use any external libraries (which your TA won't bother installing).
 
 #### :+1: :+1: :+1: Happy path functionality
 Make sure at least one minimal happy path works. [-> minimal first principle](./mini_sections/minimal_first)
@@ -22,16 +25,17 @@ Document all exposed methods in your code.
 This does not just make it easier for you to work in a team, but its also easier for the TAs to 
 understand what a function is supposed to do - and to give you partial points 
 even if the implementation of a method is incorrect or incomplete.
-
 Additionally, a 'README.md' should explain how to use your program, how to run it
 and also transparently declare what's not yet implemented. 
 
 #### :+1: :+1: Reasonable software design choices
 Sticking to good software design choices makes your debugging easier and your lecturer/TA who has to do the grading 
 happier. 
-Use abstraction (inheritance) and helper classes to avoid code and documentation duplication.
-Avoid god-classes (huge classes with too much logic) and spaghetti code (unstructured code).
-You can use various tools (e.g. PMD, CPD) to help you with this. [-> PF2 Design Principles](./pf2_specific/good_practice)
+Use **abstraction (inheritance)** and **helper classes** to avoid code and documentation duplication.
+Avoid **god-classes** (huge classes with too much logic) and **spaghetti code** (unstructured code).
+You can use various **tools** (e.g. PMD, CPD) to help you with this. 
+
+[-> PF2 Design Principles](./pf2_specific/good_practice)
 
 #### :+1: :+1: High test coverage with meaningful tests
 Make sure all your code is covered by unit tests. 
@@ -69,14 +73,15 @@ to deviate from the requested scope of features.
 
 #### :hankey: There's a bug that is driving me crazy :bulb: That's life :-) [-> debugging tips](./mini_sections/debugging_starter.md)
 
-#### :hankey: There's a checkstyle error / code duplication I cannot fix. :bulb: [-> explain in a comment](./mini_sections/explanantion_comments.md)
+#### :hankey: There's a checkstyle / CPD complain I don't agree with. :bulb: -> explain your argument in a comment (*)
  
-#### :hankey: There's a feature I cannot implement. :bulb: [-> mock functionality](./mini_sections/mocking.md)
+#### :hankey: There's a feature I cannot implement. :bulb: [-> mock functionality](./mini_sections/stubs.md)
 
 #### :hankey: I forgot to save my project. It's all gone. :bulb: git push frequently [-> mini git tutorial](./mini_sections/simple_git.md)
 
 #### :hankey: The pressure is getting too much. :bulb: [-> Start early, minimal first, get help!](./mini_sections/stress.md)
 
+(*) You're probably wrong.
 
 
 
