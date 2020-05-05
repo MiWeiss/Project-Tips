@@ -5,11 +5,11 @@
 
 #### :hankey: The project is not completed at the time of submission.
 
-#### :hankey: At the time of (milestone or final) submission, the project is in an invalid state :bulb: Use feature branches: 'master' always clean [mini git tutorial](./mini_sections/simple_git.md) 
+#### :hankey: At the time of (milestone or final) submission, the project is in an invalid state :bulb: feature branches [mini git tutorial](./mini_sections/simple_git.md) 
 
 #### :hankey: One of the teammates does not contribute to the project. :bulb: Talk to the TAs or Lecturer
 
-#### :hankey: There's a bug that is driving me crazy :bulb: welcome to a coders life.[Debugging Tipps](./mini_sections/debugging_starter.md)
+#### :hankey: There's a bug that is driving me crazy :bulb: welcome to a coders life. [Debugging Tipps](./mini_sections/debugging_starter.md)
 
 #### :hankey: There's a checkstyle error I cannot fix. :bulb: [explain in a comment](./mini_sections/explanantion_comments.md)
  
