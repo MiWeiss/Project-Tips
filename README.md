@@ -21,7 +21,7 @@ This does not just make it easier for you to work in a team, but its also easier
 understand what a function is supposed to do - and to give you partial points 
 even if the implementation of a method is incorrect or incomplete.
 
-Additionally, a 'README.md' should explain how to use your program, how to run the happy path
+Additionally, a 'README.md' should explain how to use your program, how to run it
 and also transparently declare what's not yet implemented. 
 
 #### :+1: :+1: Reasonable software design choices
@@ -32,9 +32,9 @@ Avoid god-classes (huge classes with too much logic) and spaghetti code (unstruc
 You can use various tools (e.g. PMD, CPD) to help you with this. [-> PF2 Design Principles](./pf2_specific/good_practice)
 
 #### :+1: :+1: High test coverage with meaningful tests
-Make sure all your code is covered by automated unit tests. 
+Make sure all your code is covered by unit tests. 
 
-Your tests should be reasonable: They should check for more than just a happy path, but also treat edge conditions.
+Your tests should be effective: They should check for more than just a happy path and also treat edge conditions.
 Rule of Thumb (Mutation Testing): If all your tests are green and you change a random piece of correct and tested code to something wrong, 
 at least one test should fail.
 
@@ -44,16 +44,22 @@ and will make you loose points ;-)
 Additionally, such warnings are often good indicators of bugs. 
 Avoiding them will make your debugging life much easier [-> debugging tips](./mini_sections/debugging_starter.md)
 
-#### :+1: :+1: Edge-Case functionality for main features
+#### :+1: :+1: Complete Features requested in assignment
+Besides the stuff mentioned above, feature completeness 
+(i.e., the correct implementation of all functionality requested in the assignment)
+should of course not be forgotten. [-> minimal first principle](./mini_sections/minimal_first)
 
 
 #### :+1: Additional Functionality (Top GUI, Easter Eggs, Feature Extensions)
-
+Once all of the above is perfectly completed, you can typically collect additional points
+with *nice to haves* such as a beautiful GUI, unexpected easter eggs or optional features.
+Attention: If you add unrequested features, make sure to discuss them with a TA and get the approval 
+to deviate from the requested scope of features. 
 
 
 ## Common Problems and Countermeasures
 
-#### :hankey: The project is not completed at the time of submission. :bulb: Prioritize features [-> minimal first principle](./minimal_first)
+#### :hankey: The project is not completed at the time of submission. :bulb: Prioritize features [-> minimal first principle](./mini_sections/minimal_first)
 
 #### :hankey: At the time of (milestone or final) submission, the project is in an invalid state :bulb: feature branches  [ -> mini git tutorial](./mini_sections/simple_git.md) 
 
