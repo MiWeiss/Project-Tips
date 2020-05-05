@@ -46,12 +46,12 @@ You can use various **tools** (e.g. PMD, CPD) to help you with this.
 
 #### :+1: :+1: High test coverage with meaningful tests
 Make sure all your code is covered by unit tests.
-Your tests should be effective: They should check for more than just a happy path and also treat edge conditions.:
+Your tests should be effective: They should check for more than just a happy path and also treat edge conditions:
 
 1. Good testing will impress during grading and convince the TA that your code is of high quality. 
 2. Good testing will make the debugging process for you so much easier 
     as problems can be quickly narrowed down to particular functions.
-3. Good testing reduces the risk of submitting something that still contains errors which you could have easily fixed
+3. Good testing reduces the risk of submitting something that still contains errors which you could have been easily fixed
     but of which you were not aware.
 
 Rule of Thumb (Mutation Testing): If all your tests are green 
