@@ -18,9 +18,9 @@ yourself (instead of copying). Make sure to appropriately reference your sources
 Also, cheap tricks like `@supresswarnings` or simple renaming of variables to hide code duplication look 
 very bad when detected during grading :triumph:. Do not risk it!
 
-#### :+1: :+1: :+1: Code compiles without errors
-If your code does not compile, your TA cannot run it and won't be able to give you any points for any of the cool stuff you implemented.
-For this, it is important that you do not use any external libraries (which your TA won't bother installing).
+#### :+1: :+1: :+1: Code builds/compiles without errors
+If your code does not compile or cannot be built, your TA cannot run it and won't be able to give you any points for any of the cool stuff you implemented.
+For this, it is important that you do not use any external libraries, expect if your project task explicitely allows you to do so.
 
 #### :+1: :+1: :+1: Happy path functionality
 Make sure at least one minimal happy path works and is described in your Readme. [-> minimal first principle](./mini_sections/minimal_first.md)
