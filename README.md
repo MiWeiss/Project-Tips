@@ -51,7 +51,7 @@ Your tests should be effective: They should check for more than just a happy pat
 1. Good testing will impress during grading and convince the TA that your code is of high quality. 
 2. Good testing will make the debugging process for you so much easier 
     as problems can be quickly narrowed down to particular functions.
-3. Good testing reduces the risk of submitting something that still contains errors which you could have been easily fixed
+3. Good testing reduces the risk of submitting something that still contains errors which you could have fixed
     but of which you were not aware.
 
 Rule of Thumb (Mutation Testing): If all your tests are green 
