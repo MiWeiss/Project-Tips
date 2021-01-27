@@ -1,6 +1,6 @@
 # Efficient and successful programming assignments
 This repository aims to help you to get better grades for your programming project in less time.
-It is targeted at students in the *Programming Fundamentals 2* class at [USI](https://www.usi.ch/en) 
+It was originally written for the *Programming Fundamentals 2* class at [USI](https://www.usi.ch/en)
 but its content probably generalizes to most programming assignments in software engineering.
 
 Jump directly to the two main chapters:
@@ -18,9 +18,12 @@ yourself (instead of copying). Make sure to appropriately reference your sources
 Also, cheap tricks like `@supresswarnings` or simple renaming of variables to hide code duplication look 
 very bad when detected during grading :triumph:. Do not risk it!
 
-#### :+1: :+1: :+1: Code builds/compiles without errors
+#### :+1: :+1: :+1: Code builds / compiles / runs without errors
 If your code does not compile or cannot be built, your TA cannot run it and won't be able to give you any points for any of the cool stuff you implemented.
 For this, it is important that you do not use any external libraries, expect if your project task explicitely allows you to do so.
+
+Make sure you do not use any absolute paths or system specific configurations, which may prevent your software to run on another machine. 
+If some machine specific configuration is required, use a dedicated configuration file.
 
 #### :+1: :+1: :+1: Happy path functionality
 Make sure at least one minimal happy path works and is described in your Readme. [-> minimal first principle](./mini_sections/minimal_first.md)
@@ -42,7 +45,8 @@ Use **abstraction (inheritance)** and **helper classes** to avoid code and docum
 Avoid **god-classes** (huge classes with too much logic) and **spaghetti code** (unstructured code).
 You can use various **tools** (e.g. PMD, CPD) to help you with this. 
 
-[-> PF2 Design Principles](./pf2_specific/good_practice.md)
+Precise style guides are clearly programming language and context dependent. 
+See for example the [PF2 Design Principles](./pf2_specific/good_practice.md).
 
 #### :+1: :+1: High test coverage with meaningful tests
 Make sure all your code is covered by unit tests.
