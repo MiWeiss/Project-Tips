@@ -45,7 +45,10 @@ Use **abstraction (inheritance)** and **helper classes** to avoid code and docum
 Avoid **god-classes** (huge classes with too much logic) and **spaghetti code** (unstructured code).
 You can use various **tools** (e.g. PMD, CPD) to help you with this. 
 
-Precise style guides are clearly programming language and context dependent. 
+To further increase readability of your code and its outputs, remove excessive console prints, 
+or (for advanced students), use a logger with a configurable log level.
+
+Note that the choice of an appropriate style guide is clearly programming language and context dependent. 
 See for example the [PF2 Design Principles](./pf2_specific/good_practice.md).
 
 #### :+1: :+1: High test coverage with meaningful tests
