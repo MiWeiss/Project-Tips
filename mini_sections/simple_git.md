@@ -4,7 +4,7 @@ The following recommendations help you to get the most out of git.
 They assume you know how to work with git and in particular with different branches.
 If you don't know git well and don't want to learn it now, just ignore this page.
 
-1. **Keep the `main` branch always clean:** Make sure code on the master branch always compiles 
+1. **Keep the `main` branch always clean:** Make sure code on the main branch always compiles 
     and does not break any functionality that worked in previous versions.
     Like that, you have always a version ready to submit for milestone discussions.
 2. **Implement new features on distinct branches** and merge them into main when the feature is completely implemented.
