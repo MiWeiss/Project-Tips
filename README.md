@@ -20,7 +20,7 @@ very bad when detected during grading :triumph:. Do not risk it!
 
 #### :+1: :+1: :+1: Code builds / compiles / runs without errors
 If your code does not compile or cannot be built, your TA cannot run it and won't be able to give you any points for any of the cool stuff you implemented.
-For this, it is important that you do not use any external libraries, expect if your project task explicitely allows you to do so.
+For this, it is important that you do not use any external libraries, except if your project task explicitly allows you to do so.
 
 Make sure you do not use any absolute paths or system specific configurations, which may prevent your software to run on another machine. 
 If some machine specific configuration is required, use a dedicated configuration file.
@@ -30,10 +30,10 @@ Make sure at least one minimal happy path works and is described in your Readme.
 
 #### :+1: :+1: Code documentation and project readme
 Document all exposed methods in your code. 
-This does not just make it easier for you to work in a team, but its also easier for the TAs to 
+This does not just make it easier for you to work in a team, but it is also easier for the TAs to 
 understand what a function is supposed to do - and to give you partial points 
 even if the implementation of a method is incorrect or incomplete.
-Additionally, a 'README.md' should contain
+Additionally, a `README.md` should contain
 the full names of the team members,
 an explanation of how to run and use your program,
 and also transparently declare what's not yet implemented.
@@ -105,6 +105,5 @@ to deviate from the expected functionality.
 ## About this Repo
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-[![HitCount](http://hits.dwyl.com/{MiWeiss}/{Project-Tips}.svg)](http://hits.dwyl.com/MiWeiss/Project-Tips)
 
 **Author:** Michael Weiss, Software Institute @ Università della Svizzera italiana (USI), Switzerland
